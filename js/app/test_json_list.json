@@ -1,0 +1,68 @@
+{
+  "newslist": [
+    {
+      "title": "Donec adipisicing convallis.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Possimus saepe autem voluptatibus.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T10:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Amet tempora sequi varius.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Eiusmod, pellentesque felis reiciendis.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Rutrum culpa, vulputate fermentum.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Tempor arcu rutrum litora.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Feugiat sunt, saepe, leo.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    },
+    {
+      "title": "Magna exercitationem rerum excepturi.",
+      "thumbURL": "http://randomimage.setgetgo.com/get.php",
+      "author": "Jay Chen",
+      "authorURL": "http://www.qq.com",
+      "datetime": "2011-12-17T09:24:17Z",
+      "detailURL": "testURL"
+    }
+  ]
+}
